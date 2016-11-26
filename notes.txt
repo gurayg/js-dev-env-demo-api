@@ -1,0 +1,4 @@
+git add .
+git commit -m 'textttt"
+
+git push heroku master //to publish changes
